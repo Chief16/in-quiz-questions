@@ -7,7 +7,7 @@
 ```css
 ul li a 
 a 
-.examole a 
+.example a 
 div a
 ```
 
